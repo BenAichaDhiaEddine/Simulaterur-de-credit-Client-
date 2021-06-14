@@ -1,0 +1,22 @@
+version: '3.2'
+services:
+  sample:
+    container_name: baladiaty-super-admin-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+    ports:
+      - ${DOCKER_PORT}:4000
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    command: npm run start
+    networks:
+      - Baladiaty-superAdmin-app-network
+
+#Docker Networks
+networks:
+  Baladiaty-superAdmin-app-network:
+    driver: bridge
