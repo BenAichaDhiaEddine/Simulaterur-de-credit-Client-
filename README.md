@@ -7,3 +7,22 @@ Simulateur de credit (Super Admin) est un espace pour satisfaire l'admin supéri
 Cette application est développé avec le MERN STACK (Mongo Db - Express JS - react js et Node js) .
 
 Aussi nous avons utilisé Redux et Redux-Saga, material-ui , react Strap
+
+
+page de login
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/login.PNG)
+page d'acceuil et dashboard
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/Dashboard.PNG)
+page gérer les Corporates ( banques ) 
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/Corporates.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/corporates%201.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/corporates%202.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/corporates%203.PNG)
+page gérer les Administrateur Functional 
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/Admin.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/admin%20add.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/admin%20edit.PNG)
+page gérer les types des credits 
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/credit%20types.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/credit%20type%20add.PNG)
+![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Super-Admin/blob/main/public/credit%20types%20edit.PNG)
